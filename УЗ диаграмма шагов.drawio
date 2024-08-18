@@ -1,12 +1,9 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36" version="24.7.7">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="989" dy="509" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1195" dy="615" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
-        <mxCell id="SCuuzsAqQ5ZtpopIMGcM-0" value="Создание заявки на рамочный" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="90" y="290" width="120" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="SCuuzsAqQ5ZtpopIMGcM-1" value="Дебитор" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="260" y="470" width="120" height="60" as="geometry" />
         </mxCell>
@@ -20,10 +17,22 @@
           <mxGeometry x="423.5" y="50" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="SCuuzsAqQ5ZtpopIMGcM-5" value="Банк трехсторонний" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="423.5" y="530" width="120" height="60" as="geometry" />
+          <mxGeometry x="423.5" y="630" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="SCuuzsAqQ5ZtpopIMGcM-6" value="Банк двухстронний" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="423.5" y="410" width="120" height="60" as="geometry" />
+          <mxGeometry x="423.5" y="400" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="SCuuzsAqQ5ZtpopIMGcM-7" value="Контракт не приложен" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="590" y="460" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="SCuuzsAqQ5ZtpopIMGcM-8" value="Контракт приложен" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="590" y="340" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="SCuuzsAqQ5ZtpopIMGcM-9" value="Конракт не приложен" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="590" y="690" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="SCuuzsAqQ5ZtpopIMGcM-10" value="Конракт приложен" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="590" y="570" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
